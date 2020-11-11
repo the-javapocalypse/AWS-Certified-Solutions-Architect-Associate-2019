@@ -5,6 +5,13 @@ AWS CloudFormation provides a common language for you to model and provision AWS
 
 Cloudformation Quickstart is a bunch of cloudformation templates already built by aws solution architects allowing you to create Complex environments very quickly
 
+
+## Stacksets
+Create, Update or delete stacks accross multiple accounts and regions with a single operation
+Need admin account to create stacksets
+Trusted accounts can create update or delete stack instances from stackset
+When you update a stackset, all the associates stacks are updated throughout all accounts and regions
+
 ##### Q: Are there limits to the number of templates or stacks?
 
 There are no limits to the number of templates. Each AWS CloudFormation account is limited to a maximum of **200 stacks**.
