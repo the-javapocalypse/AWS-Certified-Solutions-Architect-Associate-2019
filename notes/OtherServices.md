@@ -15,3 +15,5 @@ Macie: Amazon Macie is a fully managed data security and data privacy service th
 Inspector: Automated security assessment service to help improve the security and compliance of applications deployed on AWS
 
 GuardDuty: It is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts, workloads, and data stored in Amazon S3
+
+ DeviceFarm: Improve the quality of your web and mobile applications by testing across desktop browsers and real mobile devices hosted in the AWS Cloud
